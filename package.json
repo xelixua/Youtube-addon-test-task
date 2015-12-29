@@ -1,0 +1,16 @@
+{
+  "title": "Youtube list addon",
+  "name": "liked",
+  "version": "0.0.1",
+  "description": "Test addon. Liked test task",
+  "main": "index.js",
+  "author": "Sergey Maksimenko",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}

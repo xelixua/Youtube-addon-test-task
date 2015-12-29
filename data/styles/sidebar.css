@@ -1,0 +1,22 @@
+input {
+	position:fixed; 
+	width:60%;	
+}
+
+button {
+	position:fixed; 
+	left:70%;
+	width:30%;
+}
+
+#resultList {
+	position: fixed;
+	top: 5%;
+	overflow: auto;
+	
+}
+
+#resultListEmpty {
+	position:fixed;
+	top:50%;
+}
